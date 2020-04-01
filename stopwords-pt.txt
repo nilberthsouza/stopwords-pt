@@ -1,4 +1,5 @@
 a
+as
 acerca
 adeus
 agora
@@ -6,6 +7,7 @@ ainda
 alem
 algmas
 algo
+algum
 algumas
 alguns
 ali
@@ -15,12 +17,15 @@ ambos
 ano
 anos
 antes
+ante
 ao
 aonde
 aos
 apenas
 apoio
 apontar
+apontarem
+apontou
 apos
 após
 aquela
@@ -73,6 +78,8 @@ daquelas
 daquele
 daqueles
 dar
+dei
+doo
 das
 de
 debaixo
@@ -272,6 +279,8 @@ mesmos
 meu
 meus
 mil
+milhar
+milhares
 minha
 minhas
 momento
@@ -348,6 +357,7 @@ pelos
 perante
 perto
 pessoas
+pessoa
 pode
 podem
 poder
